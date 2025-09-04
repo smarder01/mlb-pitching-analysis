@@ -71,10 +71,8 @@ This project includes an interactive Tableau dashboard that highlights both indi
 - Team Pitching Leaderboard (2024) → Compares teams across ERA, WHIP, K/9, BB/9, and HR/9.
 - Team WHIP Rankings (2024) → Highlights team efficiency in limiting baserunners.
 
-## Tableau Dashboard
 You can explore the interactive dashboard here:  
-[View on Tableau Public](https://public.tableau.com/views/Baseball_Pitching_Dashboard_2024/TopK9?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-
+[View on Tableau Public](https://public.tableau.com/shared/XJNQZBTDR?:display_count=n&:origin=viz_share_link)
 ---
 
 ## Future Directions
