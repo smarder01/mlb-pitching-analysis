@@ -52,12 +52,15 @@ SQL Integration → Loaded data into SQLite, practiced queries in Python and DB 
 
 **1. League-Average Strikeouts and Walks Over Time (k9_vs_bb9.png)**
 This visualization shows how pitching has evolved since 2000. Strikeouts per 9 innings (K/9) have risen steadily, reflecting the modern emphasis on power pitching, while walks per 9 innings (BB/9) have remained relatively stable.
+<img width="2532" height="1634" alt="k9_vs_bb9" src="https://github.com/user-attachments/assets/ce5e7689-a2da-485b-a80d-dc2608b22fb5" />
 
 **2. ERA Distribution by Season (era_by_season.png)**
 This plot highlights how run prevention has varied across MLB seasons. Shifts in the distribution of ERA values illustrate how factors like the juiced ball era, pitching changes, and league-wide strategies have influenced pitcher performance.
+<img width="3000" height="1800" alt="era_by_season" src="https://github.com/user-attachments/assets/1dd44056-a692-4051-b195-e99f5779cf07" />
 
 **3. WHIP Comparison Across Pitchers (whip_dist.png)**
 This chart compares pitcher efficiency using WHIP (walks + hits per inning pitched). Lower WHIP values indicate better ability to limit baserunners, making it a strong measure of pitcher dominance.
+<img width="2111" height="1403" alt="whip_dist" src="https://github.com/user-attachments/assets/55175db7-5f90-4ebb-9fba-c87990716c65" />
 
 ---
 
