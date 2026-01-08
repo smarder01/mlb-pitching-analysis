@@ -75,7 +75,7 @@ This project includes an interactive Tableau dashboard that highlights both indi
 - Team WHIP Rankings (2024) → Highlights team efficiency in limiting baserunners.
 
 You can explore the interactive dashboard here:  
-[View on Tableau Public](https://public.tableau.com/shared/XJNQZBTDR?:display_count=n&:origin=viz_share_link)
+[View on Tableau Public][(https://public.tableau.com/views/Baseball_Pitching_Dashboard_2024/Baseball?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)]
 
 ---
 
